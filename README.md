@@ -59,9 +59,9 @@ make menuconfig 设置静态编译
 
 键入命令后进入 menuconfig 界面，按照图中的选项选择后推出并保存
 
-![Alt text](2024-07-29_20-25.png)
+![Alt text](./img/2024-07-29_20-25.png)
 
-![Alt text](2024-07-29_20-25_1.png)
+![Alt text](./img/2024-07-29_20-25_1.png)
 
 4. 编译生成可执行程序
 
